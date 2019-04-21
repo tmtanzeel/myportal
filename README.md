@@ -1,6 +1,7 @@
 # Project Title
 
 It is my own website or portal that cotains my professional information.
+Visit www.tanzeel.online
 
 ## Getting Started
 
@@ -8,7 +9,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-"dependencies": {
+All the essential dependencies
+
   "bootstrap": "^4.3.1",
   "react": "^16.8.6",
   "react-bootstrap": "^0.32.4",
@@ -16,11 +18,6 @@ These instructions will get you a copy of the project up and running on your loc
   "react-router-dom": "^5.0.0",
   "react-scripts": "2.1.8",
   "reactstrap": "^8.0.0"
-},
-
-```
-Give examples
-```
 
 ### Installing
 
